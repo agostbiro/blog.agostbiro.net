@@ -59,9 +59,12 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <p>
+          © 2020 Agost Biro. License: <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0.</a>
+        </p>
+        <p>
+          Built with <a href="https://www.gatsbyjs.org">Gatsby.</a>
+        </p>
       </footer>
     </div>
   )
