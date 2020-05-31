@@ -77,7 +77,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-react-helmet-canonical-urls`,
       options: {
-        siteUrl: `https://www.example.com`,
+        siteUrl: `https://blog.agostbiro.com`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
