@@ -1,6 +1,7 @@
 ---
 title: "The Serverless Stack"
 canonical: https://dokklib.com/serverless-stack/
+date: "2020-04-23"
 ---
 
 ## What Is Serverless

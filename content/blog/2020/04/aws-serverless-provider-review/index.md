@@ -1,6 +1,7 @@
 ---
 title: "AWS Serverless Provider Review"
 canonical: https://dokklib.com/providers/aws/
+date: "2020-04-23"
 ---
 
 ## Serverless Pioneers
