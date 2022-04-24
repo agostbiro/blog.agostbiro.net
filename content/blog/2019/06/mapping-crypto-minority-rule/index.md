@@ -34,7 +34,7 @@ The deciding factor in whether the minority rule can take effect is the cost of 
 
 Another difference with online payments is the structure of interactions. Personal payments happen in small groups, where the voice of just one individual can drive the group to switch protocols, and once a group is converted, its members increase the probability of adoption in other groups as well. This dynamic greatly accelerates the speed of adoption, but there is no equivalent dynamic for online payments.
 
-Providing adopters with a financial incentive to advocate its use was one of the [great innovations](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/#kickstart) of Bitcoin. This is a lever that Alpha can lean on to accelerate the growth of the intransigent population.
+Providing adopters with a financial incentive to advocate its use was one of the [great innovations](https://blog.agostbiro.net/2019/06/mapping-crypto-common-pitfalls/#kickstart) of Bitcoin. This is a lever that Alpha can lean on to accelerate the growth of the intransigent population.
 
 The Achilles heel of the minority rule is polarization. If multiple privacy focused personal payment solutions compete for the same intransigent population, the power of the rule is greatly diminished.
 

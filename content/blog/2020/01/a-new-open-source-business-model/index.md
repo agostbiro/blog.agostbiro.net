@@ -28,7 +28,7 @@ Source: [Twitter](https://twitter.com/substack/status/1165742866796183554)
 
 ## Paywall For Docs
 
-Yes, the new business model I propose here is a paywall for documentation sites, where daily users have to log in and pay a monthly subscription fee to access the site. Teams pay a fixed subscription price per seat and individual users pay a variable price with an option to pay $0. Authentication, subscription management and payouts are provided by a [forkable company](https://blog.agostbiro.com/2020/01/a-forkable-company/) called [Dokknet.](https://dokknet.com/) The paywall integrates with existing documentation frameworks on the front end and integrates with hosting providers on the back end.[^5] [Dokknet](https://dokknet.com) charges 3% of revenues + Stripe fees with the long term goal of providing the services at a flat 1% fee (including payment processing charges).
+Yes, the new business model I propose here is a paywall for documentation sites, where daily users have to log in and pay a monthly subscription fee to access the site. Teams pay a fixed subscription price per seat and individual users pay a variable price with an option to pay $0. Authentication, subscription management and payouts are provided by a [forkable company](https://blog.agostbiro.net/2020/01/a-forkable-company/) called [Dokknet.](https://dokknet.com/) The paywall integrates with existing documentation frameworks on the front end and integrates with hosting providers on the back end.[^5] [Dokknet](https://dokknet.com) charges 3% of revenues + Stripe fees with the long term goal of providing the services at a flat 1% fee (including payment processing charges).
 
 ### Why is this a good idea?
 
@@ -57,6 +57,6 @@ _You can learn more about the [Dokknet](https://dokknet.com/) paywall-as-a-servi
 [^2]: See [Open Source: From Community to Commercialization](https://a16z.com/2019/10/04/commercializing-open-source/) by a16z for an overview of VC-backed OS business models.
 [^3]: See revenue on [https://gitroyalty.com/discover](https://gitroyalty.com/discover)
 [^4]: Think Memberful, Substack and most recently Ghost Members.
-[^5]: Read more in the [paywall design.](https://blog.agostbiro.com/2020/01/dokknet-paywall-design/)\
+[^5]: Read more in the [paywall design.](https://blog.agostbiro.net/2020/01/dokknet-paywall-design/)\
 [^6]: Transitive dependencies are projects that are fundamental to larger projects, but end users don’t often interact with them.
 

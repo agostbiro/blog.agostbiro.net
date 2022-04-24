@@ -5,7 +5,7 @@ description: "This post maps the challenges of launching a novel payment solutio
 
 ---
 
-This is the second post in a series aimed at understanding the crypto ecosystem through [Wardley maps.](https://medium.com/wardleymaps) The [first post](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/) introduced mapping with the somewhat contrived example of applying Bitcoin to online payments and identified many of the challenges around launching novel payment solutions. In this post, we will examine these pitfalls in more detail and see how the Litecoin, Monero, Ripple, Stellar and Z-cash projects handled them compared to Bitcoin.
+This is the second post in a series aimed at understanding the crypto ecosystem through [Wardley maps.](https://medium.com/wardleymaps) The [first post](https://blog.agostbiro.net/2019/06/mapping-crypto-a-primer/) introduced mapping with the somewhat contrived example of applying Bitcoin to online payments and identified many of the challenges around launching novel payment solutions. In this post, we will examine these pitfalls in more detail and see how the Litecoin, Monero, Ripple, Stellar and Z-cash projects handled them compared to Bitcoin.
 
 ## #1 Early stage tech vs industrialized value chain
 

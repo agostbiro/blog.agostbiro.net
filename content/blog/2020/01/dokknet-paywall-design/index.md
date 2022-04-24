@@ -4,7 +4,7 @@ date: "2020-01-29"
 description: "Dokknet is a paywall-as-a-service for open source documentation sites. This post explains the rational and technical details of the its paywall design."
 ---
 
-[Dokknet](https://dokknet.com) is a paywall-as-a-service for open source documentation sites. This post explains the rational and technical details of the its paywall design. You can read more about the paywall in [A New Open Source Business Model.](https://blog.agostbiro.com/2020/01/a-new-open-source-business-model/)
+[Dokknet](https://dokknet.com) is a paywall-as-a-service for open source documentation sites. This post explains the rational and technical details of the its paywall design. You can read more about the paywall in [A New Open Source Business Model.](https://blog.agostbiro.net/2020/01/a-new-open-source-business-model/)
 
 ## Primary goal
 

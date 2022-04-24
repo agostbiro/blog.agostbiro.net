@@ -25,9 +25,9 @@ A forkable company operates under constant threat of obliteration. Piss enough p
 
 Your margins are now everybody’s opportunity, so get used to tight margins. But that’s ok, because you don’t have to raise any money to run a successful forkable business. The overhead of contributing to your company’s codebase is minimal which means you can hire programmers on a commit-by-commit basis as your cash flow allows. Got a new bug report? Put a bounty on it and receive offers in hours. Wondering how to scale support? Your CRM is Github and Stack Overflow, all indexed for search. Instead of chatbots, you are building a community now that gives you instant feedback on new features. This is the power of a forkable company.
 
-[^1]: It’s often enough for a small percentage of users to care a lot in a networked market. See [Mapping Crytpo: The Minority Rule](https://blog.agostbiro.com/2019/06/mapping-crypto-minority-rule/) on how this could play out in personal payments.
+[^1]: It’s often enough for a small percentage of users to care a lot in a networked market. See [Mapping Crytpo: The Minority Rule](https://blog.agostbiro.net/2019/06/mapping-crypto-minority-rule/) on how this could play out in personal payments.
 
 ---
 
-_[Dokknet](https://dokknet.com) which provides a documentation paywall for open source projects is a forkable company. You can read more about Dokknet in [A New Open Source Business Model](https://blog.agostbiro.com/2020/01/a-new-open-source-business-model/) or just go ahead and fork it on [Github.](https://github.com/dokknet/dokknet/blob/master/forking.md)_
+_[Dokknet](https://dokknet.com) which provides a documentation paywall for open source projects is a forkable company. You can read more about Dokknet in [A New Open Source Business Model](https://blog.agostbiro.net/2020/01/a-new-open-source-business-model/) or just go ahead and fork it on [Github.](https://github.com/dokknet/dokknet/blob/master/forking.md)_
 

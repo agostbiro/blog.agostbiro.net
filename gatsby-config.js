@@ -6,7 +6,7 @@ module.exports = {
       summary: `.`,
     },
     description: `Agost's personal blog`,
-    siteUrl: `https://blog.agostbiro.com/`,
+    siteUrl: `https://blog.agostbiro.net/`,
     social: {
       twitter: `agostbiro`,
     },
@@ -77,7 +77,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-react-helmet-canonical-urls`,
       options: {
-        siteUrl: `https://blog.agostbiro.com`,
+        siteUrl: `https://blog.agostbiro.net`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
