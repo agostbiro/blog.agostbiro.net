@@ -60,7 +60,7 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <footer>
         <p>
-          © 2020 Agost Biro. License: <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0.</a>
+          © 2022 Agost Biro. License: <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0.</a>
         </p>
         <p>
           Built with <a href="https://www.gatsbyjs.org">Gatsby.</a>
