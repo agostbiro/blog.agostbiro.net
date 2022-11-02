@@ -18,7 +18,7 @@ in their data centers according to their security manual. It's irrational
 for iOS users to treat Apple as an adversary, so this leaves open the 
 possibility of HSM compromise[^1] or an undisclosed law enforcement 
 backdoor as a threat to users’ iCloud Keychain items. It's up to each user 
-should decide on their own if these are acceptable risks.
+to decide if these are acceptable risks.
 
 A more detailed description of iCloud Keychain Security follows.
 
