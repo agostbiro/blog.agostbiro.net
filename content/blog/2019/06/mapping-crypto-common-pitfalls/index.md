@@ -58,7 +58,6 @@ Payment networks are the textbook example of the difficulties of kickstarting a 
 ![Memory Dealers billboard in Santa Clara, CA advertising Bitcoin in 2011. 
 ](./images/2hi6tex-1024x768.jpg)
 
-_Memory Dealers billboard in Santa Clara, CA advertising Bitcoin in 2011._  
 _Source:_ [Post](https://forum.bitcoin.com/ama-ask-me-anything/i-m-roger-ver-the-first-bitcoin-angel-investor-ask-me-anything-t2719.html) _by Roger Ver on the Bitcoin.com forum._
 
 While Bitcoin's original efforts were ingenious, we must realize that companies that have existing relationships with merchants and consumers and own a direct distribution channel are in a superior strategic position to kickstart a payment network. The following are the best positioned players among US tech companies:

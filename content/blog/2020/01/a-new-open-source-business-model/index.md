@@ -24,7 +24,7 @@ I believe Feross' experiment was a step in the right direction, but it needs to 
 
 ![Tweet by @substack saying open source doc paywalls would be good](./images/a-new-open-source-business-model-substack-tweet-edited.png)
 
-Source: [Twitter](https://twitter.com/substack/status/1165742866796183554)
+_Source: [Twitter](https://twitter.com/substack/status/1165742866796183554)_
 
 ## Paywall For Docs
 

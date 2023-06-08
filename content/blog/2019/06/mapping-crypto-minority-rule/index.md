@@ -23,9 +23,6 @@ Consider the scenario where a personal payment solution, Zebra, enjoys total ado
 ![Fig 1: Time steps to 50% adoption of Alpha in the entire population.
  Continuous lines represent the adoption of Alpha as a ratio of the entire population. Dashed lines represent the ratio of inflexible individuals in the entire population. The number prefix in the legend is the initial ratio of inflexibles in the population. Each time step corresponds to one month in the simulation.](./images/adoption.png)
 
-_Fig 1: Time steps to 50% adoption of Alpha in the entire population._  
-_Continuous lines represent the adoption of Alpha as a ratio of the entire population. Dashed lines represent the ratio of inflexible individuals in the entire population. The number prefix in the legend is the initial ratio of inflexibles in the population. Each time step corresponds to one month in the simulation._
-
 If the cost of switching to Alpha from Zebra is low enough, it suffices for less than 5% of the population to turn intransigent regarding privacy to drive the adoption of Alpha to a majority of the population within a few years (assuming a uniformly distributed dissatisfied population). The exact time depends on the size of the starting intransigent population and the assumptions made about the structure and dynamics of social behavior. Based on an exploratory simulation with what I believe to be conservative parameters, I found that given an initial intransigent population of 1%, Alpha is adopted by the majority within 3.5 years. With an initial intransigent population of 2.5%, it takes 2 years and with 5% it only takes 11 months (Fig 1). Methodology and results are detailed in [this notebook.](https://abiro.github.io/minority_sim/notebook.html) Code to run the simulation is available on [GitHub.](https://github.com/abiro/minority_sim)
 
 ## Dynamics of the rule

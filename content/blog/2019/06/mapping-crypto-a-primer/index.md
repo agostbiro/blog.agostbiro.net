@@ -10,7 +10,6 @@ Why apply mapping to the crypto ecosystem? Because far too many publications on 
 
 ![Map of a TV company from 2015 with organizational details.](./images/tv-map.png)
 
-_Map of a TV company from 2015 with organizational details._  
 _Source:_ [Simon Wardley - An introduction to Wardley (Value Chain) Mapping.](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html) _License:_ [CC BY-SA 3.0.](https://creativecommons.org/licenses/by-sa/3.0/)
 
 A Wardley map is quite literally a map of the terrain that a business or technology operates in. [Mapping is](https://twitter.com/swardley/status/700636891624787968) understanding our purpose, discovering the terrain, identifying the natural forces that act in it (climate), learning general patterns of action (doctrine) and then developing context specific gameplay. The two core concepts of maps are the value chain and technological evolution. While the term value chain generally refers to the activities of a company, here we use it in a more general sense meaning all activities required to fulfill a need. The evolutionary stage of a technology [is determined](https://medium.com/wardleymaps/finding-a-new-purpose-8c60c9484d3b) by its ubiquity in its applicable market and the amount of uncertainty around its use. The concept of technological evolution is critical in understanding how different components of a value chain interact and change.
